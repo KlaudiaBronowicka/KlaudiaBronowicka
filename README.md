@@ -3,7 +3,7 @@
 I'm **Klaudia Romek**, a product-focused **Lead Mobile Application Developer** with 7+ years of experience creating **native and cross-platform mobile applications**, as well as **video games**, **websites**, and **cloud-based solutions**.
 
 ## 🌟 About Me
-- 💻 **Specializing in:** Full-stack mobile app development using **Flutter**, **Xamarin**, or native **iOS/Android** with **.NET**, **Azure**, and **Firebase**. 
+- 💻 **Specializing in:** Full-stack mobile app development using **Flutter**, **Xamarin**, and native **iOS/Android** with **.NET**, **Azure**, and **Firebase**. 
 - 🌟 **Passionate about:** Building **Tech for Good** apps that improve lives and games that tell meaningful stories.
 - 🎮 **Having fun with:** **Unity3D** for game development.
 - 📚 **Outside of work:** Levelling up my running and running out of space for board games.
